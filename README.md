@@ -18,7 +18,10 @@ O Facility LOL roda em segundo plano, sem janela. Para fechar, use **Encerrar** 
 - **Android:** instale o app **[FacilityLOL.apk](https://github.com/bernardoant2001-cpu/facility-lol-releases/releases/latest/download/FacilityLOL.apk)** (o painel do PC mostra um QR code para baixar). Se o celular pedir, permita instalar apps desta fonte.
 - **iPhone:** não precisa instalar nada. Abra o link do painel no **Safari** e toque em **Compartilhar → Adicionar à Tela de Início** para ter o ícone.
 
-Depois, é só apontar a câmera para o QR code do painel e tocar em **Abrir com Facility LOL**. No Android, permita as notificações: o app avisa quando a partida aparecer, com **Aceitar** e **Recusar** na própria notificação.
+Para conectar:
+
+- **Android:** abra o app, toque em **Procurar meu PC** e clique em **Permitir** na tela do PC. Quando o app perguntar, permita **Dispositivos próximos** (para achar o PC) e **notificações**.
+- **iPhone:** aponte a câmera para o QR code do painel e abra o link no Safari. No Android, permita as notificações: o app avisa quando a partida aparecer, com **Aceitar** e **Recusar** na própria notificação.
 
 As automações (aceitar, escolher e banir) rodam no PC, então funcionam mesmo com o celular longe. O painel do PC também tem um botão para controlar tudo por lá.
 
